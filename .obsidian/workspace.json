@@ -19,11 +19,9 @@
             "id": "7db30473d7c6c88e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "RPG/Investigação/Documentos.md",
-                "mode": "source",
-                "source": false
+                "file": "RPG/Montros/FICHA-Wendigo.png"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Investigação/Documentos.md",
+                "file": "RPG/Montros/FICHA-Wendigo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Investigação/Documentos.md",
+                "file": "RPG/Montros/FICHA-Wendigo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Investigação/Documentos.md"
+                "file": "RPG/Montros/FICHA-Wendigo.png"
               }
             }
           }
@@ -157,11 +155,14 @@
   },
   "active": "7db30473d7c6c88e",
   "lastOpenFiles": [
+    "RPG/Montros/WENDIGO.jpeg",
+    "RPG/Montros/FICHA- Aberração de carne.png",
+    "RPG/Montros/FICHA-Wendigo.png",
+    "RPG/Investigação/Documentos.md",
     "RPG/Montros/Aberrações.canvas",
     "RPG/Itens almadiçoados/Akira Hanayomee (Rayssa).md",
     "RPG/Investigação/Pistas Falsas- Serial Killer.md",
     "RPG/Investigação/Investigação.md",
-    "RPG/Investigação/Documentos.md",
     "RPG/Historia/Personagens (NPC's).md",
     "RPG/Historia/----- -- ------ - historia.md",
     "RPG/Itens almadiçoados/Leo(Machado).md",
