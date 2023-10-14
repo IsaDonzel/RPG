@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "c30b9f0a02b59dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9455c697789858ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdc94a31fa2a13d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7db30473d7c6c88e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquivos/Teste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1492091604756a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec1111bdba0b9401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a7989b89efe10e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e0cd5f0e288dd77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53a4971fb8143e7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccd7494bd5630894",
+    "type": "split",
+    "children": [
+      {
+        "id": "f731a1debea82c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d6328ebb6aa0f4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arquivos/Teste.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4718f284e715cdfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arquivos/Teste.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "274b8a5e26ca1612",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6acfab92e5f5896",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arquivos/Teste.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "30a7989b89efe10e",
+  "lastOpenFiles": [
+    "Arquivos/Teste.md",
+    "Untitled",
+    "Arquivos/Teste.md.txt",
+    "Arquivos/Novo(a) Documento de Texto.txt"
+  ]
+}
