@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"c9f8671f912a1cf9","type":"group","x":420,"y":-100,"width":920,"height":860,"label":"PRIMEIRO BOSS"},
+		{"type":"group","id":"ac754c4ce905d54d","x":-460,"y":120,"width":758,"height":880,"label":"BOSS FINAL"},
+		{"type":"file","file":"RPG/Montros/FICHA-Wendigo.png","id":"156c7b5b78626e94","x":0,"y":140,"width":298,"height":400},
+		{"type":"file","file":"RPG/Montros/WENDIGO.jpeg","id":"3637d33e5043a147","x":-440,"y":142,"width":400,"height":400},
+		{"type":"file","file":"RPG/Montros/WENDIGO MORTO.jpeg","id":"5a253bb21239a0d1","x":-280,"y":600,"width":400,"height":400},
+		{"type":"file","file":"RPG/Montros/FICHA- Aberração de carne.png","id":"0c3d79d49e505717","x":440,"y":-80,"width":400,"height":384},
+		{"id":"add4908e8ac98857","type":"text","text":"QUAL O PROXIMO MONSTRO?\nMONTRO DE MORTE?\n3 BOSS?\n\nZUMBI? OU ANIMAL?\n\n\n","x":-1440,"y":304,"width":280,"height":200},
+		{"id":"71d07fa5cf1139a2","type":"file","file":"RPG/Montros/Zumbi de sangue com dentes.png","x":-1091,"y":-200,"width":263,"height":399},
+		{"id":"d97494d96dc870c0","type":"file","file":"RPG/Montros/Zumbi de Sangue.png","x":-1091,"y":404,"width":400,"height":369},
+		{"id":"f5b3f7f9ffb00ece","type":"file","file":"RPG/Montros/Bestial.png","x":-1091,"y":880,"width":400,"height":324},
+		{"type":"file","file":"RPG/Montros/Dupla de Carne.png","id":"0a8eaf092f530956","x":920,"y":-75,"width":400,"height":374},
+		{"id":"a70ad3c50f81afc7","type":"file","file":"RPG/Montros/Dupla de carne PNG.png","x":680,"y":340,"width":393,"height":400}
+	],
+	"edges":[
+		{"id":"ccce350b0315e2fe","fromNode":"156c7b5b78626e94","fromSide":"bottom","toNode":"5a253bb21239a0d1","toSide":"top"},
+		{"id":"0f8bc1020153f766","fromNode":"156c7b5b78626e94","fromSide":"left","toNode":"3637d33e5043a147","toSide":"right"},
+		{"id":"d3431634985170e6","fromNode":"0a8eaf092f530956","fromSide":"left","toNode":"0c3d79d49e505717","toSide":"right"},
+		{"id":"325bb773123b8012","fromNode":"0a8eaf092f530956","fromSide":"bottom","toNode":"a70ad3c50f81afc7","toSide":"right"},
+		{"id":"441d82ed2cacdcb3","fromNode":"add4908e8ac98857","fromSide":"top","toNode":"71d07fa5cf1139a2","toSide":"bottom"},
+		{"id":"9193c8282e2d7fbc","fromNode":"add4908e8ac98857","fromSide":"bottom","toNode":"d97494d96dc870c0","toSide":"left"},
+		{"id":"0da1eae89190c354","fromNode":"add4908e8ac98857","fromSide":"left","toNode":"f5b3f7f9ffb00ece","toSide":"left"}
+	]
+}
