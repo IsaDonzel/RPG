@@ -1,9 +1,9 @@
 1.  Diário Antigo: Um diário antigo encontrado nos arquivos da cidade ou em algum lugar relacionado à história de Curasal. Ele contém informações sobre rituais e eventos misteriosos que ocorreram no passado, fornecendo pistas sobre a possível origem dos desaparecimentos.
-	**Diário Antigo de Ravenwood**
+	**Diário Antigo de Curasal**
 
 	_Ano de 1892_
 	
-	Este diário pertence a Jonathan Whitaker, um dos primeiros colonos de Ravenwood. Nele, estão registrados eventos misteriosos que assombraram nossa cidade nos primeiros anos de sua fundação.
+	Este diário pertence a Jonathan Whitaker, um dos primeiros colonos de Curasal. Nele, estão registrados eventos misteriosos que assombraram nossa cidade nos primeiros anos de sua fundação.
 	
 	**12 de julho de 1892**
 	
@@ -69,7 +69,7 @@
 
 	_Anotações Perturbadoras_
 	
-	Este é o caderno de Emily, uma das vítimas dos desaparecimentos em Ravenwood. As páginas deste caderno contêm anotações enigmáticas, desenhos perturbadores e registros de seus encontros com a seita que operava nas sombras da cidade.
+	Este é o caderno de Emily, uma das vítimas dos desaparecimentos em Curasal. As páginas deste caderno contêm anotações enigmáticas, desenhos perturbadores e registros de seus encontros com a seita que operava nas sombras da cidade.
 	
 	**Página 1**
 	
@@ -116,7 +116,7 @@
 
 	_Palavras Perdidas do Passado_
 	
-	Este fragmento de pergaminho antigo, descoberto nos bosques sombrios nos arredores de Ravenwood, é uma relíquia enigmática que contém símbolos antigos e um texto parcialmente preservado. As palavras inscritas parecem ser parte de um antigo ritual ou registro histórico.
+	Este fragmento de pergaminho antigo, descoberto nos bosques sombrios nos arredores de Curasal, é uma relíquia enigmática que contém símbolos antigos e um texto parcialmente preservado. As palavras inscritas parecem ser parte de um antigo ritual ou registro histórico.
 	
 	_[Símbolos misteriosos]_
 	
@@ -128,7 +128,7 @@
 	
 	_[Símbolos antigos]_
 	
-	Este fragmento revela apenas uma pequena parte de uma narrativa maior. Os símbolos e as palavras obscuras sugerem rituais misteriosos e uma conexão com a lenda do Wendigo. A história completa e seus detalhes estão ocultos, esperando serem decifrados por aqueles que buscam desvendar o mistério por trás dos desaparecimentos em Ravenwood.
+	Este fragmento revela apenas uma pequena parte de uma narrativa maior. Os símbolos e as palavras obscuras sugerem rituais misteriosos e uma conexão com a lenda do Wendigo. A história completa e seus detalhes estão ocultos, esperando serem decifrados por aqueles que buscam desvendar o mistério por trás dos desaparecimentos em Curasal.
 
 5. Caderno de Receitas Estranhas: Um caderno de receitas encontrado na cozinha do restaurante "Sabores Proibidos". Além de receitas culinárias comuns, o caderno contém instruções para preparar pratos incomuns e perturbadores, indicando a ligação entre a culinária do restaurante e a prática canibal.
 	1. **Página 1: Sopa Especial de "Sabores Proibidos"**
@@ -250,20 +250,20 @@
 	Esteja avisado, este livro contém conhecimento perigoso e proibido. A busca pelo poder pode levar à destruição, e os segredos do Wendigo só trazem desgraça. Abandonem estas práticas e busquem a luz, antes que seja tarde demais.
 
 7.  Jornal Antigo: Um jornal antigo encontrado em um sótão empoeirado ou em um arquivo histórico. A edição contém um artigo sobre eventos misteriosos e desaparecimentos ocorridos em Curasal décadas atrás. Os jogadores podem encontrar semelhanças perturbadoras entre os eventos passados e os atuais.
-	1. **Jornal Antigo de Ravenwood**
+	1. **Jornal Antigo de Curasal**
 
 	_Edição de 15 de setembro de 1892_
 	
-	**"Mistério Assola Ravenwood: Desaparecimentos e Medo na Cidade"**
+	**"Mistério Assola Curasal: Desaparecimentos e Medo na Cidade"**
 	
-	Há 31 anos, Ravenwood viveu uma série de eventos misteriosos e desaparecimentos que assombraram a cidade e deixaram os moradores em estado de choque e medo. Os acontecimentos tumultuados de 1892 ainda ecoam nos corações e nas mentes daqueles que viveram para contar a história.
+	Há 31 anos, Curasal viveu uma série de eventos misteriosos e desaparecimentos que assombraram a cidade e deixaram os moradores em estado de choque e medo. Os acontecimentos tumultuados de 1892 ainda ecoam nos corações e nas mentes daqueles que viveram para contar a história.
 	
 	Naquela época, os moradores relataram desaparecimentos inexplicáveis, com pessoas indo para a floresta densa que cerca a cidade e nunca mais retornando. Gritos noturnos eram ouvidos à distância, e as casas eram frequentemente encontradas em um estado de tumulto, como se tivessem sido invadidas por uma força desconhecida.
 	
-	As autoridades locais montaram buscas extensas, mas os desaparecidos pareciam ter se perdido nas profundezas da floresta, onde nenhuma trilha ou pista os levou. Rumores sombrios de uma criatura demoníaca, conhecida como o "Wendigo", começaram a se espalhar, alimentando o medo e o pânico entre os habitantes de Ravenwood.
+	As autoridades locais montaram buscas extensas, mas os desaparecidos pareciam ter se perdido nas profundezas da floresta, onde nenhuma trilha ou pista os levou. Rumores sombrios de uma criatura demoníaca, conhecida como o "Wendigo", começaram a se espalhar, alimentando o medo e o pânico entre os habitantes de Curasal.
 	
 	Os anciãos da cidade tomaram medidas drásticas para proteger a comunidade, realizando rituais antigos e proibidos na tentativa de afastar o mal. Muitos se voltaram para a superstição e a crença em forças sobrenaturais para encontrar respostas para os eventos perturbadores que assolaram a cidade.
 	
-	O mistério dos desaparecimentos eventualmente se dissipou, mas as cicatrizes deixadas nos corações dos moradores nunca desapareceram completamente. Hoje, muitos na cidade preferem não falar sobre os eventos de 1892, considerando-os apenas um capítulo sombrio na história de Ravenwood.
+	O mistério dos desaparecimentos eventualmente se dissipou, mas as cicatrizes deixadas nos corações dos moradores nunca desapareceram completamente. Hoje, muitos na cidade preferem não falar sobre os eventos de 1892, considerando-os apenas um capítulo sombrio na história de Curasal.
 	
-	No entanto, à medida que uma nova onda de desaparecimentos assola a cidade, os mais atentos começam a notar semelhanças perturbadoras entre os eventos passados e os atuais. Os gritos noturnos ecoam novamente, e as casas são encontradas em estado de tumulto, exatamente como antes. Seria o retorno do Wendigo ou algum tipo de maldição que continua a perseguir Ravenwood?
+	No entanto, à medida que uma nova onda de desaparecimentos assola a cidade, os mais atentos começam a notar semelhanças perturbadoras entre os eventos passados e os atuais. Os gritos noturnos ecoam novamente, e as casas são encontradas em estado de tumulto, exatamente como antes. Seria o retorno do Wendigo ou algum tipo de maldição que continua a perseguir Curasal?
