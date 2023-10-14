@@ -11,24 +11,18 @@
             "id": "1fdc94a31fa2a13d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7db30473d7c6c88e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RPG/Investigação/Documentos.md",
-                "mode": "source",
-                "source": false
+                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
+                "viewState": {
+                  "x": 635.8498797831966,
+                  "y": -379.64815810127084,
+                  "zoom": -0.32628491225897943
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Investigação/Documentos.md",
+                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Investigação/Documentos.md",
+                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Investigação/Documentos.md"
+                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas"
               }
             }
           }
@@ -155,13 +149,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7db30473d7c6c88e",
+  "active": "1fdc94a31fa2a13d",
   "lastOpenFiles": [
+    "RPG/DOCUMENTOS FEITOS/TERCEIRA PAGINA.png",
+    "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
+    "RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png",
+    "CAPA E TRASEIRA DO DIARIO.png",
+    "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
+    "RPG/DOCUMENTOS FEITOS/Untitled.md",
+    "RPG/Investigação/Documentos.md",
+    "RPG/DOCUMENTOS FEITOS",
+    "RPG/Untitled.md",
     "RPG/Investigação/Investigação.md",
     "RPG/Montros/FICHA-Wendigo.png",
     "RPG/Montros/WENDIGO.jpeg",
     "RPG/Montros/FICHA- Aberração de carne.png",
-    "RPG/Investigação/Documentos.md",
     "RPG/Montros/Aberrações.canvas",
     "RPG/Itens almadiçoados/Akira Hanayomee (Rayssa).md",
     "RPG/Investigação/Pistas Falsas- Serial Killer.md",

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5fed315fc0377357","type":"group","x":400,"y":-780,"width":780,"height":1370,"label":"DIARIO "},
+		{"id":"4662afe2729531ff","type":"file","file":"CAPA E TRASEIRA DO DIARIO.png","x":600,"y":-720,"width":400,"height":326},
+		{"id":"a0b6941e87e973e1","type":"file","file":"RPG/DOCUMENTOS FEITOS/TERCEIRA PAGINA.png","x":600,"y":-394,"width":400,"height":321},
+		{"id":"50fac926e69e162f","type":"file","file":"RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png","x":600,"y":-73,"width":400,"height":318},
+		{"id":"9eb7fe8c339ab52c","type":"file","file":"RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png","x":600,"y":245,"width":400,"height":325}
+	],
+	"edges":[]
+}
