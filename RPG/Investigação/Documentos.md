@@ -29,41 +29,6 @@
 	
 	Os anciãos estão mais sombrios agora. Eles falam em segredo, evitando olhares curiosos. Sinto que eles escondem algo, uma verdade que não querem que o povo da cidade descubra. O que realmente aconteceu durante o ritual?
 
-2. Livro Oculto: Um livro escondido no escritório de Evelyn ou em algum local da cidade. Ele contém informações sobre práticas ocultas e rituais de invocação, revelando mais sobre a natureza do culto que ela lidera.
-	**Livro Oculto de Evelyn**
-
-	_Confissões e Rituais_
-	
-	Este livro é um registro dos segredos mais sombrios de Evelyn, a sacerdotisa da seita que cultua o Wendigo. Aqui estão detalhes sobre as práticas ocultas, as mortes que ocorreram e os rituais de invocação realizados em nome da entidade terrível.
-	
-	**Capítulo 1: Iniciação**
-	
-	Cada membro da seita passa por um rigoroso processo de iniciação. Eles são trazidos para o nosso santuário secreto, no coração da floresta, onde juram lealdade ao Wendigo. As primeiras gotas de sangue são derramadas em nome da entidade voraz.
-	
-	**Capítulo 2: As Oferendas**
-	
-	O Wendigo exige oferendas regulares. Humanos são atraídos para nosso círculo, alimentando a fome insaciável da criatura. Evelyn se encarrega de escolher as vítimas, atraindo-as para seu restaurante "Sabores Proibidos" com promessas de um jantar especial.
-	
-	**Capítulo 3: Rituais de Invocação**
-	
-	Os rituais de invocação são o cerne de nossa devoção. Evelyn lidera os rituais, usando práticas proibidas para trazer a presença do Wendigo para nossas vidas. As almas sacrificadas são o combustível para nosso poder e a chave para nossos desejos sombrios.
-	
-	**Capítulo 4: A Transformação**
-	
-	Aqueles que sobrevivem aos rituais de invocação começam a sentir as mudanças. O Wendigo sussurra em seus sonhos, distorcendo suas mentes e tornando-os mais parecidos com a criatura que adoramos. Eles perdem a humanidade, mas ganham o poder.
-	
-	**Capítulo 5: O Segredo de Evelyn**
-	
-	Evelyn, a doce dona do restaurante, é a sacerdotisa que lidera tudo. Ela guarda o segredo de ser a mediadora entre o mundo dos vivos e o Wendigo. Sua carne é a mais próxima da entidade, e ela busca se transformar completamente na criatura que venera.
-	
-	**Capítulo 6: O Preço a Pagar**
-	
-	O poder que obtivemos tem um preço terrível. Nossas almas estão manchadas pelo sangue derramado em nome do Wendigo. A fome insaciável da criatura ameaça nos consumir a todos. Não podemos voltar atrás, e nossa lealdade está selada em sangue.
-	
-	**Capítulo 7: O Futuro Sombrio**
-	
-	O Wendigo cresce mais forte a cada ritual. Seus planos vão além de nossa compreensão. O que ele deseja com seu poder crescente é incerto, mas estamos todos ligados a seu destino. Não há escapatória de nossa devoção sombria.
-
 3.  Caderno de Anotações: Um caderno pertencente a uma das vítimas dos desaparecimentos. Ele contém anotações enigmáticas, desenhos perturbadores e registros de encontros com a seita. As anotações podem fornecer insights sobre as atividades da seita e as motivações por trás dos desaparecimentos.
 	**Caderno de Emily**
 
@@ -248,22 +213,3 @@
 	**Desfecho:** Uma vez que o Wendigo tenha saciado sua fome, ele pode conceder ao invocador habilidades sobrenaturais, mas também vai deixar uma marca indelével em sua alma. Aqueles que realizam este ritual perderão parte de sua humanidade, tornando-se criaturas mais próximas do próprio Wendigo.
 	
 	Esteja avisado, este livro contém conhecimento perigoso e proibido. A busca pelo poder pode levar à destruição, e os segredos do Wendigo só trazem desgraça. Abandonem estas práticas e busquem a luz, antes que seja tarde demais.
-
-7.  Jornal Antigo: Um jornal antigo encontrado em um sótão empoeirado ou em um arquivo histórico. A edição contém um artigo sobre eventos misteriosos e desaparecimentos ocorridos em Curasal décadas atrás. Os jogadores podem encontrar semelhanças perturbadoras entre os eventos passados e os atuais.
-	1. **Jornal Antigo de Curasal**
-
-	_Edição de 15 de setembro de 1892_
-	
-	**"Mistério Assola Curasal: Desaparecimentos e Medo na Cidade"**
-	
-	Há 31 anos, Curasal viveu uma série de eventos misteriosos e desaparecimentos que assombraram a cidade e deixaram os moradores em estado de choque e medo. Os acontecimentos tumultuados de 1892 ainda ecoam nos corações e nas mentes daqueles que viveram para contar a história.
-	
-	Naquela época, os moradores relataram desaparecimentos inexplicáveis, com pessoas indo para a floresta densa que cerca a cidade e nunca mais retornando. Gritos noturnos eram ouvidos à distância, e as casas eram frequentemente encontradas em um estado de tumulto, como se tivessem sido invadidas por uma força desconhecida.
-	
-	As autoridades locais montaram buscas extensas, mas os desaparecidos pareciam ter se perdido nas profundezas da floresta, onde nenhuma trilha ou pista os levou. Rumores sombrios de uma criatura demoníaca, conhecida como o "Wendigo", começaram a se espalhar, alimentando o medo e o pânico entre os habitantes de Curasal.
-	
-	Os anciãos da cidade tomaram medidas drásticas para proteger a comunidade, realizando rituais antigos e proibidos na tentativa de afastar o mal. Muitos se voltaram para a superstição e a crença em forças sobrenaturais para encontrar respostas para os eventos perturbadores que assolaram a cidade.
-	
-	O mistério dos desaparecimentos eventualmente se dissipou, mas as cicatrizes deixadas nos corações dos moradores nunca desapareceram completamente. Hoje, muitos na cidade preferem não falar sobre os eventos de 1892, considerando-os apenas um capítulo sombrio na história de Curasal.
-	
-	No entanto, à medida que uma nova onda de desaparecimentos assola a cidade, os mais atentos começam a notar semelhanças perturbadoras entre os eventos passados e os atuais. Os gritos noturnos ecoam novamente, e as casas são encontradas em estado de tumulto, exatamente como antes. Seria o retorno do Wendigo ou algum tipo de maldição que continua a perseguir Curasal?
