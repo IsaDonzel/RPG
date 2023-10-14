@@ -1,6 +1,6 @@
 1.  Agente James Sullivan: Líder do grupo de agentes da Ordem Paranormal, ele é um investigador experiente e determinado. Sua função é proteger e orientar os moradores da cidade durante a investigação dos desaparecimentos.
   
-2.  Evelyn: A aparentemente doce e encantadora dona do restaurante "Sabores Proibidos". Ela é uma mulher misteriosa, mas os moradores a veem como uma figura carismática e talentosa na culinária local.
+2. Evangelina: A aparentemente doce e encantadora dona do restaurante "Sabores Proibidos". Ela é uma mulher misteriosa, mas os moradores a veem como uma figura carismática e talentosa na culinária local.
   
 3.  Sarah Thompson: Uma das vítimas dos desaparecimentos em Ravenwood. Apesar de ter escapado da situação perigosa, ela está traumatizada e busca conforto e apoio dos agentes da Ordem Paranormal.
   

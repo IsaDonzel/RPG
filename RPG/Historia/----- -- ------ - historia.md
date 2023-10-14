@@ -20,15 +20,15 @@ Capítulo 4: A Revelação do Segredo Macabro... Ou Será?
 
 Adentrando a câmara fria do "Oasis Noturno", os investigadores esperavam encontrar pistas típicas de um serial killer: talvez fotografias, objetos pessoais, ou algo que confirmasse a identidade do predador humano. No entanto, a realidade era muito mais macabra.
 
-Os corpos mutilados foram dispostos como parte de um ritual obscuro, desafiando todas as expectativas da investigação. A atmosfera na sala era pesada com o cheiro do desconhecido, e a descoberta lançou os investigadores em um abismo de horrores sobrenaturais. Ao confrontar Elizabeth Wells, a aparentemente gentil proprietária, ela revelou-se não como uma serial killer, mas como a líder de um culto adorador do antigo espírito Wendigo.
+Os corpos mutilados foram dispostos como parte de um ritual obscuro, desafiando todas as expectativas da investigação. A atmosfera na sala era pesada com o cheiro do desconhecido, e a descoberta lançou os investigadores em um abismo de horrores sobrenaturais. Ao confrontar Evangelina Wells, a aparentemente gentil proprietária, ela revelou-se não como uma serial killer, mas como a líder de um culto adorador do antigo espírito Wendigo.
 
 A cidade de Curasal, agora ciente de que o mal que enfrentavam era além de qualquer compreensão humana, ficou em choque. A história do serial killer era, na verdade, uma cortina de fumaça cuidadosamente elaborada para obscurecer os verdadeiros horrores que ocorriam nas sombras.
 
 Capítulo 5: A Confrontação Final
 
-Com a verdade revelada, os investigadores da Ordem Paranormal enfrentaram Elizabeth e seus seguidores em uma batalha desesperada. Ela se transformou em uma criatura horrível, meio humana e meio Wendigo, sedenta por sangue. A luta foi intensa e perigosa, com os investigadores usando suas habilidades paranormais para combater a ameaça.
+Com a verdade revelada, os investigadores da Ordem Paranormal enfrentaram Evangelina e seus seguidores em uma batalha desesperada. Ela se transformou em uma criatura horrível, meio humana e meio Wendigo, sedenta por sangue. A luta foi intensa e perigosa, com os investigadores usando suas habilidades paranormais para combater a ameaça.
 
-No clímax da batalha, Elizabeth foi derrotada, e a seita foi desmantelada. A cidade de Curasal estava a salvo novamente, mas os traumas causados pelos desaparecimentos e a revelação do mal que espreitava em seu meio deixaram cicatrizes duradouras.
+No clímax da batalha, Evangelina foi derrotada, e a seita foi desmantelada. A cidade de Curasal estava a salvo novamente, mas os traumas causados pelos desaparecimentos e a revelação do mal que espreitava em seu meio deixaram cicatrizes duradouras.
 
 Capítulo 6: A Resolução e a Reconstrução
 

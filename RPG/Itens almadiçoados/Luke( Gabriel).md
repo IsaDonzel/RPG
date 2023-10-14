@@ -1,4 +1,4 @@
-## Baralho do Caos (Energia)
+## Energia: Baralho do Caos 
 
 Descrição: Um baralho antigo que contem 20 cartas feitas de um material misterioso que parece absorver a energia ao seu redor. As cartas estão em branco, mas à medida que alguém toca o baralho, os rituais que a pessoa sabe e aprendeu aparece nas cartas.
 

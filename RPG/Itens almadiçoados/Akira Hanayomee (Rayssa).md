@@ -1,4 +1,4 @@
-**Katana da Redenção(Morte)** 
+## Morte: Katana da Morte
 
 _Descrição:_ Esta katana, outrora um símbolo de tradição e honra na família do noivo, foi corrompida pelos eventos trágicos. Sua lâmina, que já brilhou com a luz do sol, agora reflete sombras e lembranças sombrias.
 

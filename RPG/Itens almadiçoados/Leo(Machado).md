@@ -1,4 +1,4 @@
-**Distintivo do Desespero(Conhecimento)** 
+## Conhecimento: Distintivo do Desespero
 
 _Descrição:_ Um distintivo de polícia que parece normal à primeira vista, mas, ao examinar mais de perto, revela marcas sinistras e uma aura de desespero. Aqueles que conhecem a história de Léo identificam imediatamente a conexão perturbadora.
 
