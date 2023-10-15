@@ -11,14 +11,9 @@
             "id": "1fdc94a31fa2a13d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
-                "viewState": {
-                  "x": 790,
-                  "y": -95,
-                  "zoom": -0.6596182455923127
-                }
+                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png"
               }
             }
           }
@@ -88,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
+                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
+                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/DOCS.canvas"
+                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png"
               }
             }
           }
@@ -151,12 +146,12 @@
   },
   "active": "1fdc94a31fa2a13d",
   "lastOpenFiles": [
-    "RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png",
     "RPG/DOCUMENTOS FEITOS/TERCEIRA PAGINA.png",
+    "RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png",
     "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
+    "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
     "RPG/Historia/----- -- ------ - historia.md",
     "RPG/Investigação/Documentos.md",
-    "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
     "CAPA E TRASEIRA DO DIARIO.png",
     "RPG/DOCUMENTOS FEITOS/Untitled.md",
     "RPG/DOCUMENTOS FEITOS",
