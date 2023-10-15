@@ -23,11 +23,7 @@
 	
 	**28 de julho de 1892**
 	
-	O mal parece ter recuado, pelo menos por enquanto. As noites estão mais calmas, e os desaparecimentos pararam. Os anciãos afirmam que o Wendigo foi afastado, mas sinto que o preço do nosso ritual ainda não foi totalmente revelado.
-	
-	**10 de agosto de 1892**
-	
-	Os anciãos estão mais sombrios agora. Eles falam em segredo, evitando olhares curiosos. Sinto que eles escondem algo, uma verdade que não querem que o povo da cidade descubra. O que realmente aconteceu durante o ritual?
+	O mal parece ter recuado, pelo menos por enquanto. As noites estão mais calmas, e os desaparecimentos pararam. Os anciãos afirmam que o Wendigo foi afastado, mas sinto que o preço do nosso ritual ainda não foi totalmente revelado.	Os anciãos estão mais sombrios agora. Eles falam em segredo, evitando olhares curiosos. Sinto que eles escondem algo, uma verdade que não querem que o povo da cidade descubra. O que realmente aconteceu durante o ritual?
 
 3.  Caderno de Anotações: Um caderno pertencente a uma das vítimas dos desaparecimentos. Ele contém anotações enigmáticas, desenhos perturbadores e registros de encontros com a seita. As anotações podem fornecer insights sobre as atividades da seita e as motivações por trás dos desaparecimentos.
 	**Caderno de Emily**
@@ -213,3 +209,21 @@
 	**Desfecho:** Uma vez que o Wendigo tenha saciado sua fome, ele pode conceder ao invocador habilidades sobrenaturais, mas também vai deixar uma marca indelével em sua alma. Aqueles que realizam este ritual perderão parte de sua humanidade, tornando-se criaturas mais próximas do próprio Wendigo.
 	
 	Esteja avisado, este livro contém conhecimento perigoso e proibido. A busca pelo poder pode levar à destruição, e os segredos do Wendigo só trazem desgraça. Abandonem estas práticas e busquem a luz, antes que seja tarde demais.
+
+Jornal
+Edição de 15 de setembro de 2023
+
+"Enigma Envolve Curasal: Desaparecimentos e Apreensão na Cidade"
+
+Há 131 anos, Curasal foi palco de uma série de eventos misteriosos e desaparecimentos que assombraram a cidade, deixando os moradores atônitos e apreensivos. Os tumultuados acontecimentos de 1892 ainda ressoam nos corações e mentes daqueles que sobreviveram para contar essa história intrigante.
+
+Naquela época, habitantes relataram desaparecimentos inexplicáveis, onde indivíduos adentravam a densa floresta que circundava a cidade, nunca mais retornando. Ecos de gritos noturnos reverberavam à distância, enquanto residências eram frequentemente descobertas em estado de desordem, como se tivessem sido invadidas por uma entidade desconhecida.
+
+Autoridades locais empreenderam extensas buscas, mas os desaparecidos pareciam ter-se perdido nas profundezas da floresta, onde nenhum rastro ou pista os conduzia. Rumores sinistros de uma entidade demoníaca, conhecida como CENSURADO, começaram a se disseminar, alimentando o medo e o pânico entre os habitantes de Curasal.
+
+Anciãos da cidade tomaram medidas drásticas para salvaguardar a comunidade, realizando rituais antigos e proibidos na tentativa de afastar a adversidade. Muitos buscaram refúgio na superstição e na crença em forças sobrenaturais para decifrar os eventos perturbadores que assombraram a cidade.
+
+Contudo, CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO 
+CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADO CENSURADOCENSURADO CENSURADO 
+
+A verdade por trás desses eventos enigmáticos permanece oculta, mas a cidade está, mais uma vez, imersa em temor e incerteza, enquanto busca avidamente por respostas.

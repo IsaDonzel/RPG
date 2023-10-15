@@ -11,9 +11,11 @@
             "id": "1fdc94a31fa2a13d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png"
+                "file": "RPG/Investigação/Documentos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
+                "file": "RPG/Investigação/Documentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
+                "file": "RPG/Investigação/Documentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png"
+                "file": "RPG/Investigação/Documentos.md"
               }
             }
           }
@@ -146,17 +148,17 @@
   },
   "active": "1fdc94a31fa2a13d",
   "lastOpenFiles": [
+    "RPG/Investigação/Investigação.md",
+    "RPG/Investigação/Documentos.md",
     "RPG/DOCUMENTOS FEITOS/TERCEIRA PAGINA.png",
-    "RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png",
     "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
     "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
-    "RPG/Historia/----- -- ------ - historia.md",
-    "RPG/Investigação/Documentos.md",
     "CAPA E TRASEIRA DO DIARIO.png",
+    "RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png",
+    "RPG/Historia/----- -- ------ - historia.md",
     "RPG/DOCUMENTOS FEITOS/Untitled.md",
     "RPG/DOCUMENTOS FEITOS",
     "RPG/Untitled.md",
-    "RPG/Investigação/Investigação.md",
     "RPG/Montros/FICHA-Wendigo.png",
     "RPG/Montros/WENDIGO.jpeg",
     "RPG/Montros/FICHA- Aberração de carne.png",
