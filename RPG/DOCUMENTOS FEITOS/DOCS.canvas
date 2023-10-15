@@ -1,10 +1,13 @@
 {
 	"nodes":[
 		{"id":"5fed315fc0377357","type":"group","x":400,"y":-780,"width":780,"height":1370,"label":"DIARIO "},
-		{"id":"a0b6941e87e973e1","type":"file","file":"RPG/DOCUMENTOS FEITOS/TERCEIRA PAGINA.png","x":600,"y":-394,"width":400,"height":321},
 		{"id":"4662afe2729531ff","type":"file","file":"CAPA E TRASEIRA DO DIARIO.png","x":600,"y":-720,"width":400,"height":326},
-		{"id":"50fac926e69e162f","type":"file","file":"RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png","x":600,"y":-73,"width":400,"height":318},
-		{"id":"9eb7fe8c339ab52c","type":"file","file":"RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA.png","x":600,"y":245,"width":400,"height":325}
+		{"id":"3451419b79ece13d","type":"file","file":"RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA 1.png","x":600,"y":-394,"width":400,"height":325},
+		{"id":"9fdec3af5d265a93","type":"file","file":"RPG/DOCUMENTOS FEITOS/SEGUNDA PAGINA.png","x":600,"y":-69,"width":400,"height":325},
+		{"id":"360a22cfff14201b","type":"file","file":"RPG/DOCUMENTOS FEITOS/ULTIMA PAGINA 1.png","x":600,"y":256,"width":400,"height":330},
+		{"id":"a714294d5c012248","x":-340,"y":-820,"width":400,"height":327,"type":"file","file":"jornal.png"},
+		{"id":"5a0f828035b83764","x":-380,"y":-394,"width":291,"height":400,"type":"file","file":"Joseph autopicia.png"},
+		{"id":"149ee65d1624f5f9","x":-380,"y":94,"width":400,"height":281,"type":"file","file":"tic tac.png"}
 	],
 	"edges":[]
 }
