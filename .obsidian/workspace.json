@@ -11,9 +11,11 @@
             "id": "1fdc94a31fa2a13d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "jornal.png"
+                "file": "RPG/Investigação/Documentos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jornal.png",
+                "file": "RPG/Investigação/Documentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jornal.png",
+                "file": "RPG/Investigação/Documentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jornal.png"
+                "file": "RPG/Investigação/Documentos.md"
               }
             }
           }
@@ -146,10 +148,11 @@
   },
   "active": "1fdc94a31fa2a13d",
   "lastOpenFiles": [
+    "RPG/Montros/FICHA-Wendigo.png",
     "tic tac.png",
     "Joseph autopicia.png",
-    "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
     "jornal.png",
+    "RPG/DOCUMENTOS FEITOS/DOCS.canvas",
     "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA 1.png",
     "RPG/DOCUMENTOS FEITOS/PRIMEIRA PAGINA.png",
     "RPG/DOCUMENTOS FEITOS/SEGUNDA PAGINA.png",

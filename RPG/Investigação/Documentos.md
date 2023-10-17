@@ -24,8 +24,13 @@
 	**28 de julho de 1892**
 	
 	O mal parece ter recuado, pelo menos por enquanto. As noites estão mais calmas, e os desaparecimentos pararam. Os anciãos afirmam que o Wendigo foi afastado, mas sinto que o preço do nosso ritual ainda não foi totalmente revelado.	Os anciãos estão mais sombrios agora. Eles falam em segredo, evitando olhares curiosos. Sinto que eles escondem algo, uma verdade que não querem que o povo da cidade descubra. O que realmente aconteceu durante o ritual?
+		
+		Livro vai ter um quebra-cabeça, vai se situar na biblioteca quando eles forem atrás da historia da cidade, eles vão buscar um livro de historia básico, mas se eles falarem algo insinuando  a procura de pistas o livro vai estar em branco, pois o conhecimento apaga o que está escrito. Com isso uma única frase se revela no livro ( charada de escuridão) onde será revelada quando colocarem o livro no breu, e será revelado com letras brilhantes a (charada do conhecimento), que vai indicar a sessão e fileira onde está o diário, o diário estará trancado e em sua capa estará escrito em Latim outra charada ( da porta) onde estará o símbolo que revelará e destrancará o livro e revelando o diário
+				(escuridão)Qual é o lugar onde a luz tem medo de ir, e onde os sonhos se misturam com o silêncio, formando um manto que oculta tudo ao redor?
+				(conhecimento)O que é algo que todos têm, alguns buscam incessantemente, muitos compartilham, mas poucos verdadeiramente entendem?
+				(porta)Atrás do sólidos, eu me escondo, não sou o que parece, uma fachada ilusória, mas atrás de mim, a sabedoria verdadeira aguarda. Onde estou?
 
-3.  Caderno de Anotações: Um caderno pertencente a uma das vítimas dos desaparecimentos. Ele contém anotações enigmáticas, desenhos perturbadores e registros de encontros com a seita. As anotações podem fornecer insights sobre as atividades da seita e as motivações por trás dos desaparecimentos.
+1.  Caderno de Anotações: Um caderno pertencente a uma das vítimas dos desaparecimentos. Ele contém anotações enigmáticas, desenhos perturbadores e registros de encontros com a seita. As anotações podem fornecer insights sobre as atividades da seita e as motivações por trás dos desaparecimentos.
 	**Caderno de Emily**
 
 	_Anotações Perturbadoras_
